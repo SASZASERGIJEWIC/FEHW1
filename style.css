@@ -1,0 +1,47 @@
+.header h1 {
+text-align: center;
+color: rgb(0, 0, 0);
+}
+.main {
+    width: 95%;
+    margin: 0 auto;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hobby_img, .work_img, .friends_img{
+    margin-left: 75px;
+    width: 300px;
+}
+.hobby {
+    background-color: rgb(231, 207, 230);
+    border: 2px solid salmon;
+}
+.Work {
+    background-color: rgb(174, 213, 211);
+    border: 2px solid rgb(85, 91, 176); 
+}
+
+.Friends {
+    background-color: rgb(219, 220, 182);
+    border: 2px solid rgb(231, 150, 0); 
+    height: auto;
+}
+
+main div {
+    margin: 20px 0;
+    padding: 0 40px;
+}
+.logo{
+    margin: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
